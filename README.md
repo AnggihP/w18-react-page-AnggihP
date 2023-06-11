@@ -10,7 +10,7 @@ This simple webpage is made for assignment of week-18 RevoU FSSE Madrid 2023. Th
 
 ## Link
 
-### [https://2023eplteams.vercel.app/](https://2023eplteams.vercel.app/)
+### [https://react-page-eplteam.vercel.app/](https://react-page-eplteam.vercel.app/)
 
 ## References
 
